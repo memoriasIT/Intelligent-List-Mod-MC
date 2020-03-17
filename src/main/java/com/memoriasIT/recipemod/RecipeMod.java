@@ -15,7 +15,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 public class RecipeMod
 {
     // Reference
-    protected static final String MODID = "recipemod";
+    public static final String MODID = "recipemod";
     protected static final String VERSION = "1.0";
 
     // Proxy
