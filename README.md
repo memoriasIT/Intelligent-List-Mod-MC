@@ -4,6 +4,10 @@
 
 Minecraft 1.12 forge mod to generate recursive lists of materials needed for a crafting.
 
+<h2>Screenshots?</h2>
+<img src="https://raw.githubusercontent.com/memoriasIT/Intelligent-List-Mod-MC/master/img/GUI.png" width="350">
+<img src="https://raw.githubusercontent.com/memoriasIT/Intelligent-List-Mod-MC/master/img/creativo.png" width="350">
+
 <h2>Why?</h2>
 <p>I like to learn by example, and creating a mod has helped me understand how minecraft modding with forge works.</p>
 
