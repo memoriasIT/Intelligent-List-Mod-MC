@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/memoriasIT/TriviaCardGenerator/master/TrivialImageGen/landing/templates/landing/githubImageTitle.png" width="350">
+  Intelligent List Mod
 </h1>
 
 Minecraft 1.12 forge mod to generate recursive lists of materials needed for a crafting.
